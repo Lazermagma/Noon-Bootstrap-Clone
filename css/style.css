@@ -1,0 +1,24 @@
+.bg-noon-yellow {
+  background-color: #feee00;
+}
+
+.logo-sm {
+  width: 100px;
+  height: 45px;
+}
+
+.flag-sm {
+  width: 50px;
+  height: 20px;
+}
+
+.no-bullets {
+  list-style-type: none;
+}
+
+.bg-megadeal {
+  background-color: #edeabf;
+}
+.bg-snow {
+  background-color: #f3f4f8;
+}
